@@ -9,3 +9,8 @@
 - Model Development: Implemented LinearSVC for binary classification and trained the model on saved images.
 - Automation & Prediction: Provided features like auto-prediction mode and reset functionality for seamless usage.
 - Hands-on Experience: Gained skills in machine learning, GUI design, and computer vision by building an end-to-end AI solution.
+
+=> Contact Us
+  1.. Email: uttamsojitra.ds@gmail.com
+  2. LinkedIn: https://www.linkedin.com/in/uttam-sojitra-6aa781236/
+Feel free to reach out for any collaboration, internship opportunities, or project discussions!
