@@ -12,7 +12,7 @@
 
 => Contact Us
 
-  1.. Email: uttamsojitra.ds@gmail.com
+  1. Email: uttamsojitra.ds@gmail.com
   
   2. LinkedIn: https://www.linkedin.com/in/uttam-sojitra-6aa781236/
 
